@@ -50,7 +50,6 @@ const Hero = () => {
             {/* Enhanced Typography */}
             <div className="space-y-6">
               <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white leading-tight tracking-tight">
-                Hi, I'm{' '}
                 <span className="relative inline-block">
                   <span className="bg-gradient-accent bg-clip-text text-transparent">Dharavath Raghavendra</span>
                   <div className="absolute -inset-1 bg-gradient-accent opacity-20 blur-lg -z-10"></div>
