@@ -57,7 +57,7 @@ const About = () => {
                         <p className="text-sm text-muted-foreground">
                           Vidya Jyothi Institute of Technology, Hyderabad
                         </p>
-                        <p className="text-sm text-accent font-medium">2021 - 2025</p>
+                        <p className="text-sm text-accent font-medium">2022 - 2025</p>
                       </div>
                       <div>
                         <p className="text-muted-foreground font-medium">
