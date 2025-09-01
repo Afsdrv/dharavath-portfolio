@@ -79,7 +79,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Hyderabad, Telangana, India',
+      value: 'Bengaluru, Karnataka, India',
       href: '#',
     },
   ];
