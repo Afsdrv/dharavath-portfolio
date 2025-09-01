@@ -66,7 +66,7 @@ const About = () => {
                         <p className="text-sm text-muted-foreground">
                           Government Polytechnic College
                         </p>
-                        <p className="text-sm text-accent font-medium">2018 - 2021</p>
+                        <p className="text-sm text-accent font-medium">2019 - 2022</p>
                       </div>
                       <div>
                         <p className="text-muted-foreground font-medium">
