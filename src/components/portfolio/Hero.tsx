@@ -56,7 +56,7 @@ const Hero = () => {
                 </span>
               </h1>
               <div className="space-y-4">
-                <p className="text-xl md:text-2xl text-gray-200 leading-relaxed max-w-2xl">
+                <p className="text-xl text-gray-200 leading-relaxed max-w-2xl md:text-2xl">
                   A passionate <span className="text-cyan-light font-semibold">software developer</span> specializing in programming, web development, and AI solutions.
                 </p>
                 
