@@ -73,7 +73,7 @@ const About = () => {
                           Secondary School Certificate (10th Class)
                         </p>
                         <p className="text-sm text-muted-foreground">
-                          Zilla Parishad High School
+                          Govt High School, Huzurnagar
                         </p>
                         <p className="text-sm text-accent font-medium">2018 - 2019</p>
                       </div>
