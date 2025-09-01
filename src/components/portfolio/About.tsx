@@ -75,7 +75,7 @@ const About = () => {
                         <p className="text-sm text-muted-foreground">
                           Zilla Parishad High School
                         </p>
-                        <p className="text-sm text-accent font-medium">2017 - 2018</p>
+                        <p className="text-sm text-accent font-medium">2018 - 2019</p>
                       </div>
                     </div>
                   </div>
