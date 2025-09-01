@@ -48,14 +48,36 @@ const About = () => {
                     <Calendar className="h-5 w-5 text-accent" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-foreground mb-2">Education</h4>
-                    <p className="text-muted-foreground">
-                      B.Tech Computer Science Engineering
-                    </p>
-                    <p className="text-sm text-muted-foreground">
-                      Vidya Jyothi Institute of Technology, Hyderabad
-                    </p>
-                    <p className="text-sm text-accent font-medium">2021 - 2025</p>
+                    <h4 className="font-semibold text-foreground mb-3">Education</h4>
+                    <div className="space-y-4">
+                      <div>
+                        <p className="text-muted-foreground font-medium">
+                          B.Tech Computer Science Engineering
+                        </p>
+                        <p className="text-sm text-muted-foreground">
+                          Vidya Jyothi Institute of Technology, Hyderabad
+                        </p>
+                        <p className="text-sm text-accent font-medium">2021 - 2025</p>
+                      </div>
+                      <div>
+                        <p className="text-muted-foreground font-medium">
+                          Diploma in Computer Science Engineering
+                        </p>
+                        <p className="text-sm text-muted-foreground">
+                          Government Polytechnic College
+                        </p>
+                        <p className="text-sm text-accent font-medium">2018 - 2021</p>
+                      </div>
+                      <div>
+                        <p className="text-muted-foreground font-medium">
+                          Secondary School Certificate (10th Class)
+                        </p>
+                        <p className="text-sm text-muted-foreground">
+                          Zilla Parishad High School
+                        </p>
+                        <p className="text-sm text-accent font-medium">2017 - 2018</p>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </CardContent>
