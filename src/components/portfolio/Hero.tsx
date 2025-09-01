@@ -18,7 +18,7 @@ const Hero = () => {
       });
     }
   };
-  return <div className="relative min-h-screen flex items-center justify-center gradient-hero overflow-hidden">
+  return <div className="relative min-h-screen flex items-center justify-center gradient-primary overflow-hidden">
       {/* Enhanced Background Effects */}
       <div className="absolute inset-0">
         {/* Animated Grid */}
