@@ -92,7 +92,7 @@ const About = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-2">NPTEL Certifications</h4>
                     <ul className="space-y-1 text-muted-foreground">
-                      <li>• Java Programming</li>
+                      <li>• Programming in Java</li>
                       <li>• Database Management Systems</li>
                       <li>• Data Structures & Algorithms</li>
                     </ul>
