@@ -78,7 +78,7 @@ const About = () => {
                           Govt High School, Huzurnagar
                         </p>
                         <p className="text-sm text-accent font-medium">2018 - 2019</p>
-                        <p className="text-sm text-muted-foreground">GPA: 9.0/10</p>
+                        <p className="text-sm text-muted-foreground">CGPA: 8.8/10</p>
                       </div>
                     </div>
                   </div>
