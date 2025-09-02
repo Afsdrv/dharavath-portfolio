@@ -58,6 +58,7 @@ const About = () => {
                           Vidya Jyothi Institute of Technology, Hyderabad
                         </p>
                         <p className="text-sm text-accent font-medium">2022 - 2025</p>
+                        <p className="text-sm text-muted-foreground">CGPA: 8.5/10</p>
                       </div>
                       <div>
                         <p className="text-muted-foreground font-medium">
@@ -67,6 +68,7 @@ const About = () => {
                           Government Polytechnic College
                         </p>
                         <p className="text-sm text-accent font-medium">2019 - 2022</p>
+                        <p className="text-sm text-muted-foreground">CGPA: 8.2/10</p>
                       </div>
                       <div>
                         <p className="text-muted-foreground font-medium">
@@ -76,6 +78,7 @@ const About = () => {
                           Govt High School, Huzurnagar
                         </p>
                         <p className="text-sm text-accent font-medium">2018 - 2019</p>
+                        <p className="text-sm text-muted-foreground">GPA: 9.0/10</p>
                       </div>
                     </div>
                   </div>
