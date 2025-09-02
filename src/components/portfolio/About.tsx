@@ -8,7 +8,7 @@ const About = () => {
         <div className="text-center mb-16 fade-in">
           <h2 className="text-4xl font-bold text-foreground mb-4">About Me</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Motivated B.Tech Computer Science student passionate about building innovative solutions through Python, Java, C++, and JavaScript. From Smart Parking Systems to AI Healthcare Chatbots, I create practical technology that makes a difference.
+            Computer Science Engineering student with expertise in Python, Java, C++, and JavaScript. Certified in Database Management and Cloud Computing, I've built innovative projects like Smart Parking Systems and AI Healthcare Chatbots, eager to contribute to impactful software development.
           </p>
         </div>
 
