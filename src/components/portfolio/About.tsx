@@ -68,7 +68,7 @@ const About = () => {
                           Government Polytechnic College
                         </p>
                         <p className="text-sm text-accent font-medium">2019 - 2022</p>
-                        <p className="text-sm text-muted-foreground">CGPA: 8.2/10</p>
+                        <p className="text-sm text-muted-foreground">CGPA: 8.1/10</p>
                       </div>
                       <div>
                         <p className="text-muted-foreground font-medium">
