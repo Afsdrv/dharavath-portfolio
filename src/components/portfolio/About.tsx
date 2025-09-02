@@ -98,6 +98,7 @@ const About = () => {
                       <li>• Programming in Java</li>
                       <li>• Database Management Systems</li>
                       <li>• Data Structures & Algorithms</li>
+                      <li>• Cloud Computing</li>
                     </ul>
                   </div>
                 </div>
