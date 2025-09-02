@@ -17,7 +17,7 @@ const Projects = () => {
         'Traffic congestion reduction',
         'User-friendly interface',
       ],
-      githubUrl: 'https://github.com/dharavathraghavendra/smart-parking-system',
+      githubUrl: 'https://github.com/Afsdrv/smartparking',
       status: 'Completed',
       color: 'bg-blue-500/10 text-blue-600',
     },
@@ -157,7 +157,7 @@ const Projects = () => {
             asChild
           >
             <a
-              href="https://github.com/dharavathraghavendra"
+              href="https://github.com/Afsdrv/smartparking"
               target="_blank"
               rel="noopener noreferrer"
             >
