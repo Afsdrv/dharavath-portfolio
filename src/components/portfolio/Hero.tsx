@@ -1,6 +1,6 @@
 import { ArrowRight, Download, Github, Linkedin, Mail, Code2, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profileImage from '@/assets/profile-picture.jpg';
+import profileImage from '/lovable-uploads/fcbb3cfd-1956-48cf-8174-636992f462f9.png';
 const Hero = () => {
   const scrollToPortfolio = () => {
     const element = document.getElementById('projects');
