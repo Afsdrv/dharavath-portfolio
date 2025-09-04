@@ -1,7 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { ExternalLink, Github, Car, Edit, Bot } from 'lucide-react';
+import { ExternalLink, Github, Car, Edit, Bot, Activity } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
@@ -52,6 +52,24 @@ const Projects = () => {
       githubUrl: '#',
       status: 'In Development',
       color: 'bg-purple-500/10 text-purple-600',
+    },
+    {
+      id: 4,
+      title: 'Earthquake Visualizer',
+      description: 'A real-time earthquake monitoring and visualization system that displays global seismic activity with interactive maps and data analytics for better disaster preparedness.',
+      icon: Activity,
+      technologies: ['JavaScript', 'React', 'D3.js', 'APIs', 'Data Visualization', 'Mapping Libraries'],
+      features: [
+        'Real-time earthquake data visualization',
+        'Interactive global seismic maps',
+        'Historical earthquake analysis',
+        'Alert and notification system',
+        'Magnitude and depth filtering',
+        'Disaster preparedness insights',
+      ],
+      githubUrl: '#',
+      status: 'Completed',
+      color: 'bg-orange-500/10 text-orange-600',
     },
   ];
 
