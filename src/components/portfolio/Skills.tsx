@@ -13,13 +13,13 @@ const Skills = () => {
     {
       title: 'Web Development',
       icon: Code,
-      skills: ['React', 'Node.js', 'HTML5', 'CSS3', 'Tailwind CSS', 'Express.js'],
+      skills: ['React', 'React CS', 'Node.js', 'HTML', 'HTML5', 'CSS', 'CSS3', 'Tailwind CSS', 'Express.js'],
       color: 'bg-green-500/10 text-green-600',
     },
     {
       title: 'Database & Cloud',
       icon: Database,
-      skills: ['MySQL', 'MongoDB', 'AWS', 'Azure', 'Firebase'],
+      skills: ['MySQL', 'MongoDB', 'AWS', 'Azure', 'Firebase', 'Networking'],
       color: 'bg-purple-500/10 text-purple-600',
     },
     {
